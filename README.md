@@ -6,7 +6,8 @@ To create QR codes with Python you only need to install a Python module.
 ## Installation
 The pyqrcode module is a QR code generator that is simple to use and written in pure python. The module can automates most of the building process for creating QR codes. Most codes can be created using only two lines of code!
 
-Use this command to install 
+Use this command to install
+
 $ pip install pyqrcode
 
 or install this module through interpreter.
